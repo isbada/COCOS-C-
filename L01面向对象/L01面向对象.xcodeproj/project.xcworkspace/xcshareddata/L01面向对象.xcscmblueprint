@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DC19AF1788C346CC4A0438BFA6FC02E478F7433A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DC19AF1788C346CC4A0438BFA6FC02E478F7433A" : 9223372036854775807,
+    "C19BE8E610085B15CF72F4A9BEB5F82D6BD1489B" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3EAADC23-C8E2-4315-93D3-F6340698F4ED",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DC19AF1788C346CC4A0438BFA6FC02E478F7433A" : "Cocos-x_Fundation\/",
+    "C19BE8E610085B15CF72F4A9BEB5F82D6BD1489B" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "L01面向对象",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "L01面向对象\/L01面向对象.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/isbada\/NSCLearn.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C19BE8E610085B15CF72F4A9BEB5F82D6BD1489B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/isbada\/Cocos-x_Fundation.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DC19AF1788C346CC4A0438BFA6FC02E478F7433A"
+    }
+  ]
+}
